@@ -8,4 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
   # Overview
-  
+   This project is a cart application and the product data was brought from the fake store 
+API and the Bootstrap and Redux Toolkit libraries were used
